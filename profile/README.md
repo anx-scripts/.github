@@ -2,18 +2,14 @@
 
 # anx-scripts
 
-**Premium FiveM scripts — clean code, modern UI, framework-agnostic.**
+**Scripts made with passion.**
 
-Optimized, regularly updated resources for QBCore, Qbox and ESX servers.
+Optimized, immersive and scalable FiveM scripts — upgrade your server today.
 
-[![Store](https://img.shields.io/badge/Store-Browse_scripts-5865F2?style=for-the-badge)](https:/
-/your-store-link.example)
-[![Discord](https://img.shields.io/badge/Discord-Join_us-5865F2?style=for-the-badge&logo=discord
-&logoColor=white)](https://discord.gg/your-invite)
-[![YouTube](https://img.shields.io/badge/YouTube-Previews-FF0000?style=for-the-badge&logo=youtub
-e&logoColor=white)](https://youtube.com/@your-channel)
-[![Cfx.re](https://img.shields.io/badge/Cfx.re-Portal-F40552?style=for-the-badge)](https://porta
-l.cfx.re/your-page)
+[![Store](https://img.shields.io/badge/Store-Browse_scripts-111827?style=for-the-badge)](https://www.anxscripts.com/)
+[![Discord](https://img.shields.io/badge/Discord-Join_us-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/BUhKzrbxFq)
+[![YouTube](https://img.shields.io/badge/YouTube-Previews-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@anxscripts)
+[![Cfx.re](https://img.shields.io/badge/Cfx.re-Profile-F40552?style=for-the-badge)](https://forum.cfx.re/u/your-profile)
 
 </div>
 
@@ -21,29 +17,32 @@ l.cfx.re/your-page)
 
 ## Who we are
 
-anx-scripts builds performance-focused scripts for FiveM roleplay servers.
-Every resource is written to be lightweight, easy to configure and compatible
-across the major frameworks and inventories — so you can drop it into your
-server and go.
+Founded in **2021**, anx-scripts creates premium scripts for FiveM roleplay
+servers. Our resources are built to be optimized, immersive and scalable — easy
+to set up, and ready to run on the frameworks you already use.
+
+## Supported frameworks
+
+**ESX** · **QBCore** · **Qbox** · **Standalone**
 
 ## Why anx-scripts
 
-- **Framework-agnostic** — works with QBCore, Qbox and ESX out of the box via our bridge layer.
-- **Optimized** — low resource usage (`resmon`) idle and in use.
-- **Modern UI** — clean, responsive NUI interfaces.
-- **Configurable** — sensible defaults with everything exposed in config.
-- **Supported** — active updates and support through our Discord.
+- ⚡ **Optimized** — high performance, low resource usage.
+- 🧩 **Multi-framework** — ESX, QBCore, Qbox and standalone support.
+- 🔒 **Escrow protected** — secured with the FiveM Asset Escrow system.
+- 📖 **Documented** — clear docs with simple setup.
+- ♻️ **Lifetime updates** — free updates and fixes, forever.
+- 🚀 **Instant delivery** — get your script within a minute of purchase.
 
 ## Get our scripts
 
-- **Store:** [browse the full catalog »](https://your-store-link.example)
-- **Cfx.re:** [our Tebex / portal page »](https://portal.cfx.re/your-page)
+- **Store:** [www.anxscripts.com »](https://www.anxscripts.com/)
+- **Cfx.re:** [our forum profile »](https://forum.cfx.re/u/your-profile)
 
 ## Community & support
 
-- **Discord:** [join the server »](https://discord.gg/your-invite) — support, updates and previe
-ws
-- **YouTube:** [watch showcases »](https://youtube.com/@your-channel)
+- **Discord:** [join the server »](https://discord.gg/BUhKzrbxFq) — support, updates and previews
+- **YouTube:** [watch showcases »](https://youtube.com/@anxscripts)
 
 ---
 
