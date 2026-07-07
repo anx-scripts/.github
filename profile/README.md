@@ -2,7 +2,7 @@
 
 # anx-scripts
 
-**Scripts made with passion.**
+**scripts made with passion**
 
 Optimized, immersive and scalable FiveM scripts — upgrade your server today.
 
@@ -16,36 +16,19 @@ Optimized, immersive and scalable FiveM scripts — upgrade your server today.
 
 ---
 
-## Who we are
+## About
 
-We started our journey with FiveM scripts back in **2021**. Since then,
-anx-scripts has been creating premium resources for FiveM roleplay servers —
-optimized, immersive and scalable, easy to set up, and ready to run on the
-frameworks you already use.
+Hi, I'm the developer behind **anx-scripts**. I've been building FiveM scripts
+since **2021** — premium resources for roleplay servers, made to be optimized,
+immersive and easy to run on ESX, QBCore, Qbox and standalone.
 
-## Supported frameworks
+## Links
 
-**ESX** · **QBCore** · **Qbox** · **Standalone**
-
-## Why anx-scripts
-
-- ⚡ **Optimized** — high performance, low resource usage.
-- 🧩 **Multi-framework** — ESX, QBCore, Qbox and standalone support.
-- 🔒 **Escrow protected** — secured with the FiveM Asset Escrow system.
-- 📖 **Documented** — clear docs with simple setup.
-- ♻️ **Lifetime updates** — free updates and fixes, forever.
-- 🚀 **Instant delivery** — get your script within a minute of purchase.
-
-## Get our scripts
-
-- **Store:** [www.anxscripts.com »](https://www.anxscripts.com/)
-- **Documentation:** [www.anxscripts.com/docs »](https://www.anxscripts.com/docs)
-- **Cfx.re:** [our forum profile »](https://forum.cfx.re/u/your-profile)
-
-## Community & support
-
-- **Discord:** [join the server »](https://discord.gg/BUhKzrbxFq) — support, updates and previews
-- **YouTube:** [watch showcases »](https://youtube.com/@anxscripts)
+- 🛒 **Store** — [www.anxscripts.com](https://www.anxscripts.com/)
+- 📖 **Docs** — [www.anxscripts.com/docs](https://www.anxscripts.com/docs)
+- 💬 **Discord** — [join the server](https://discord.gg/BUhKzrbxFq)
+- ▶️ **YouTube** — [@anxscripts](https://youtube.com/@anxscripts)
+- 🌐 **Cfx.re** — [forum profile](https://forum.cfx.re/u/your-profile)
 
 ---
 
