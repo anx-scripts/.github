@@ -7,6 +7,7 @@
 Optimized, immersive and scalable FiveM scripts — upgrade your server today.
 
 [![Store](https://img.shields.io/badge/Store-Browse_scripts-111827?style=for-the-badge)](https://www.anxscripts.com/)
+[![Docs](https://img.shields.io/badge/Docs-Read-22C55E?style=for-the-badge&logo=readthedocs&logoColor=white)](https://www.anxscripts.com/docs)
 [![Discord](https://img.shields.io/badge/Discord-Join_us-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/BUhKzrbxFq)
 [![YouTube](https://img.shields.io/badge/YouTube-Previews-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@anxscripts)
 [![Cfx.re](https://img.shields.io/badge/Cfx.re-Profile-F40552?style=for-the-badge)](https://forum.cfx.re/u/your-profile)
@@ -17,9 +18,10 @@ Optimized, immersive and scalable FiveM scripts — upgrade your server today.
 
 ## Who we are
 
-Founded in **2021**, anx-scripts creates premium scripts for FiveM roleplay
-servers. Our resources are built to be optimized, immersive and scalable — easy
-to set up, and ready to run on the frameworks you already use.
+We started our journey with FiveM scripts back in **2021**. Since then,
+anx-scripts has been creating premium resources for FiveM roleplay servers —
+optimized, immersive and scalable, easy to set up, and ready to run on the
+frameworks you already use.
 
 ## Supported frameworks
 
@@ -37,6 +39,7 @@ to set up, and ready to run on the frameworks you already use.
 ## Get our scripts
 
 - **Store:** [www.anxscripts.com »](https://www.anxscripts.com/)
+- **Documentation:** [www.anxscripts.com/docs »](https://www.anxscripts.com/docs)
 - **Cfx.re:** [our forum profile »](https://forum.cfx.re/u/your-profile)
 
 ## Community & support
