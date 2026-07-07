@@ -24,13 +24,11 @@ immersive and easy to run on ESX, QBCore, Qbox and standalone.
 
 ## Links
 
-| | |
-|---|---|
-| 🛒 **[Store](https://www.anxscripts.com/)** | Browse and buy my scripts |
-| 📖 **[Docs](https://www.anxscripts.com/docs)** | Setup and configuration guides |
-| 💬 **[Discord](https://discord.gg/BUhKzrbxFq)** | Support, updates and previews |
-| ▶️ **[YouTube](https://youtube.com/@anxscripts)** | Script showcases and trailers |
-| 🌐 **[Cfx.re](https://forum.cfx.re/u/your-profile)** | Releases on the FiveM forum |
+- 🛒 **[Store](https://www.anxscripts.com/)** — Browse and buy my scripts
+- 📖 **[Docs](https://www.anxscripts.com/docs)** — Setup and configuration guides
+- 💬 **[Discord](https://discord.gg/BUhKzrbxFq)** — Support, updates and previews
+- ▶️ **[YouTube](https://youtube.com/@anxscripts)** — Script showcases and trailers
+- 🌐 **[Cfx.re](https://forum.cfx.re/u/your-profile)** — Releases on the FiveM forum
 
 ---
 
