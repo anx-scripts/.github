@@ -6,11 +6,11 @@
 
 Optimized, immersive and scalable FiveM scripts — upgrade your server today.
 
-[![Store](https://img.shields.io/badge/Store-Browse_scripts-111827?style=for-the-badge)](https://www.anxscripts.com/)
+[![Store](https://img.shields.io/badge/Store-Browse_scripts-FF6B00?style=for-the-badge&logo=fivem&logoColor=white)](https://www.anxscripts.com/)
 [![Docs](https://img.shields.io/badge/Docs-Read-22C55E?style=for-the-badge&logo=readthedocs&logoColor=white)](https://www.anxscripts.com/docs)
 [![Discord](https://img.shields.io/badge/Discord-Join_us-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/BUhKzrbxFq)
 [![YouTube](https://img.shields.io/badge/YouTube-Previews-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@anxscripts)
-[![Cfx.re](https://img.shields.io/badge/Cfx.re-Profile-F40552?style=for-the-badge)](https://forum.cfx.re/u/your-profile)
+[![Cfx.re](https://img.shields.io/badge/Cfx.re-Profile-F40552?style=for-the-badge&logo=discourse&logoColor=white)](https://forum.cfx.re/u/your-profile)
 
 </div>
 
